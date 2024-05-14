@@ -1,6 +1,9 @@
-Welcome to Clarasight's Engineering Interview Packet for our [Senior Software Engineer](TBD). We are excited to provide you as much up front information as possible. At Clarasight, we're big on living our values and within Engineering we're no different. This interview packet is a manifestation of us valuing intentional experimentation to learn and will transparently evolve as we learn more over time. It is also a representation of us "just trying" a [two-way-door decision](https://www.inc.com/jeff-haden/amazon-founder-jeff-bezos-this-is-how-successful-people-make-such-smart-decisions.html). We welcome corrections and suggestions.
 
-We strongly believe that by striving towards a ["Perfect Information Game"](https://en.wikipedia.org/wiki/Perfect_information), we'll collectively make the best and most efficient decisions. Let's get to it!
+Dear Candidate,
+
+I am Dan Spiegel ([LinkedIn](https://www.linkedin.com/in/danspiegel/)). Welcome to Clarasight's Interview Packet for our [Data Manager](TBD) opening. I am excited to provide you as much up front information as I can. At Clarasight, we're big on living our values and within Engineering we're no different. This interview packet is a manifestation of us valuing intentional experimentation to learn and will transparently evolve as we learn more over time. It is also a representation of us "just trying" a [two-way-door decision](https://www.inc.com/jeff-haden/amazon-founder-jeff-bezos-this-is-how-successful-people-make-such-smart-decisions.html). We welcome corrections and suggestions.
+
+I strongly believe that by striving towards a ["Perfect Information Game"](https://en.wikipedia.org/wiki/Perfect_information), we'll collectively make the best and most efficient decisions. Let's get to it!
 
 # The Opportunity
 
@@ -10,9 +13,8 @@ We strongly believe that by striving towards a ["Perfect Information Game"](http
 
 We are an experienced team of three that strongly embody [Clarasight's value](https://www.clarasight.com/company) "Make Stone Soup" (based on the [parable](https://en.wikipedia.org/wiki/Stone_Soup)).
 - (circa 2024-04) Dan Spiegel [LinkedIn](https://www.linkedin.com/in/danspiegel/), Head of Engineering
-- (circa 2023-08) James Rosen ([GitHub](https://github.com/jamesarosen), [LinkedIn](https://www.linkedin.com/in/jamesrosen/)), Staff Software Engineer
 - (circa 2022-09) Santiago Parra, Senior Software Engineer
-
+- (circa 2023-08) James Rosen ([GitHub](https://github.com/jamesarosen), [LinkedIn](https://www.linkedin.com/in/jamesrosen/)), Staff Software Engineer
 
 ### Team Values
 
@@ -39,6 +41,7 @@ Clarasight is reinventing how enterprises close the gap between climate-related 
 Clarasight's clients are some of the largest and most complex organizations in the world. Providing them with the product that enables them to manage emissions with the same rigor as they manage their financials requires a high degree of sophistication. Additionally projecting the complex, evolving, and interdependent view of carbon emissions adds an unsolved degree of complexity. CP&A occurs in a matrix (across purpose; down functional expertise) across the organization, and providing consistent and contextually relevant information, tools, and actions to each part of the business is critical. Our product delivers a multi-modal, multi-user cohesive experience, and it requires an incredible platform to power it.
 
 If these people, product, and platform challenges sound overwhelming and doing it in a team of three (or better yet four 🙂) sounds wild yet thrilling, let's keep on going. Here's what I believe we need to supplement the team with and what you could bring to the campfire.
+
 
 # The Interview Process
 Our goal is to find an aligned, mission driven individual that will
